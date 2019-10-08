@@ -6,3 +6,9 @@
   image-url="aztec-mill.jpg"
   source-url="https://www.tripadvisor.com/Attraction_Review-g46983-d4695697-Reviews-Aztec_Mill-Cimarron_New_Mexico.html"
 %}
+{% include figure.html
+  class="img-left"
+  width="100%"
+  caption="Aztec Grist Mill, Cimarron NM"
+  src="images/aztec-mill.jpg"
+%}

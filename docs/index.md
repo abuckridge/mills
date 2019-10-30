@@ -5,7 +5,7 @@ date: 2018-12-12
 ---
 
 {% include jumbotron.html
-  title="Santa Fe Trail Historic Sites"
+  title="Historic Mills of New Mexico"
   caption="Henry Jackson, Indian Territory with Parts of Neighboring States and Territories (New York: J. Bien, 1869). Courtesy of David Rumsey Historical Map Collection"
   image="sites/images/indian-territory.jpg"
   text="A Collaboration Between the National Park Service and the University of New Mexico's Department of History"

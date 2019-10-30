@@ -1,5 +1,5 @@
 ---
-title: Santa Fe Trail Sites
+title: Historic Mills of New Mexico
 layout: single-col
 date: 2018-12-12
 ---

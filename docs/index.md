@@ -1,5 +1,5 @@
 ---
-title: GRIST A History of Flour Milling in NM
+title: GRIST A History of Flour Milling
 layout: single-col
 date: 2018-12-12
 ---
@@ -7,7 +7,7 @@ date: 2018-12-12
 {% include jumbotron.html
   title="GRIST"
   caption="Henry Jackson, Indian Territory with Parts of Neighboring States and Territories (New York: J. Bien, 1869). Courtesy of David Rumsey Historical Map Collection"
-  image="sites/images/wheat_fields.jpg"
+  image="sites/images/spring_wheat.jpg"
   text="A HISTORY OF FLOUR MILLING IN NEW MEXICO"
 %}
 

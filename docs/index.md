@@ -1,5 +1,5 @@
 ---
-title: GRIST A History of Flour Milling
+title: GRIST
 layout: single-col
 date: 2018-12-12
 ---
